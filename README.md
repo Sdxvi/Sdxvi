@@ -1,10 +1,11 @@
-### Hi there 👋
+
+  ### Ola! Eu sou Vinicius Camargo Giacomelli 👋
 
 
 <div align = "center"> 
   <a href://beacons.ai/Sdxvi>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sdxvi&show_icons=true&theme=gruvbox">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sdxvi&layout=compact&theme=gruvbox">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sdxvi&name=ViniciusCamargo&show_icons=true&theme=gruvbox">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sdxvi&name=ViniciusCamargo&layout=compact&theme=gruvbox">
 </div>
 <!--
 **Sdxvi/Sdxvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
