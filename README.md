@@ -1,6 +1,6 @@
 
   ### Ola! Eu sou Vinicius Camargo Giacomelli 👋
-
+  🔭 Estudante de ADS (FATEC Ipiranga)
 
 <div align = "center"> 
   <a href://beacons.ai/Sdxvi>
